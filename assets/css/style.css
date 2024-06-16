@@ -12051,6 +12051,9 @@ textarea.form-control-lg {
   text-transform: capitalize;
   font-weight: 600;
 }
+.menu li a:hover {
+  color: #000;
+}
 
 .portfolio {
   margin-bottom: 5rem;
